@@ -10,7 +10,6 @@ pyinstaller ^
   --collect-all ctranslate2 ^
   --hidden-import=tiktoken_ext.openai_public ^
   --hidden-import=tiktoken_ext ^
-  --exclude-module tkinter ^
   --exclude-module matplotlib ^
   --exclude-module scipy ^
   --upx-dir "tools\upx" ^
