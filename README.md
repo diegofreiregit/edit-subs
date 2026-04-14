@@ -54,6 +54,12 @@ edit-subs/
 ├── README.md
 └── requirements.txt
 ```
-
+## 🛠️ Tools Used
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+- [faster-whisper](https://github.com/guillaumekln/faster-whisper)
+- [ctranslate2](https://github.com/guillaumekln/ctranslate2)
+- [ffmpeg](https://ffmpeg.org/)
+- [imageio-ffmpeg](https://github.com/imageio/imageio-ffmpeg)
+- [UPX](https://upx.github.io/)
 ---
 *Developed by [Diego Freire](https://github.com/diegofreiregit)*
